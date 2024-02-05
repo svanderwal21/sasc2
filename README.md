@@ -18,3 +18,9 @@ Workflow for fine-tuning model
 4. Try lots of different datasets of different websites, databases, sizes and combinations and test performance
 5. Report on performance
 6. Write in report
+
+
+Contact information:
+Sam van der Wal
+samvdwal@outlook.com or s.van_der_wal@lumc.nl
+Leiden, The Netherlands
